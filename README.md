@@ -1,2 +1,1 @@
-# stock_dataint
-[!NOTE] I'm going to store this information here temporarily. I'll move it to another location in the future.
+> I'm going to store this information here temporarily. I'll move it to another location in the future.
